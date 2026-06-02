@@ -43,9 +43,9 @@ End-to-end human resource management system with a React Native mobile app and a
 
 ## Published apps on Google Play
 
+📲 **Pass Radar** — Digital pass creation, tracking, verification, and approval-status monitoring.
 📲 **Arbaeen Urdu** — Multilingual Islamic app with live updates, donation forms, Ziyarat content, and an admin panel.
 📲 **GSF Society** — QR-based document retrieval, Firebase auth and storage, Redux Toolkit, real-time announcements, admin interface.
-📲 **Pass Radar** — Digital pass creation, tracking, verification, and approval-status monitoring.
 📲 **SunniToolkit** — All-in-one prayer times, Quran, duas, and tasbeeh counter app built in React Native.
 
 [→ See all my apps on Google Play](https://play.google.com/store/apps/dev?id=6497950436612835262)
